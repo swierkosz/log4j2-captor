@@ -20,7 +20,7 @@
 
     <groupId>com.github.swierkosz</groupId>
     <artifactId>log4j2-captor</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <name>log4j2-captor</name>
     <description>A simple Java testing utility for log4j2.</description>
@@ -45,7 +45,7 @@
         <connection>scm:git:git@github.com:swierkosz/log4j2-captor.git</connection>
         <developerConnection>scm:git:git@github.com:swierkosz/log4j2-captor.git</developerConnection>
         <url>https://github.com/swierkosz/log4j2-captor</url>
-        <tag>1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
